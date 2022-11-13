@@ -12,3 +12,9 @@ gradle-app.setting
 
 # # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
 # gradle/wrapper/gradle-wrapper.properties
+*.png
+*.lck
+sandbox/wrapper/dists/gradle-2.0-bin/ahl4kci1szqczjl9kz6r1x20w/gradle-2.0/media/gradle.icns
+*.ok
+sandbox/wrapper/dists/gradle-2.0-bin/ahl4kci1szqczjl9kz6r1x20w/gradle-2.0/lib/gradle-messaging-2.0.jar
+*.jar
